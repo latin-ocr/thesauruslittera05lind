@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesauruslittera05lind_0006.png"; bbox 0 0 2164 3510; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 805 1503 1563 1547">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 805 1503 1563 1547">
+     <span class='ocr_line' id='line_1_1' title="bbox 805 1503 1563 1547; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 805 1503 924 1545; x_wconf 78' lang='lat' dir='ltr'>Alle</span> <span class='ocrx_word' id='word_1_2' title='bbox 962 1504 1165 1546; x_wconf 73' lang='lat' dir='ltr'>Rechte</span> <span class='ocrx_word' id='word_1_3' title='bbox 1203 1504 1563 1547; x_wconf 71' lang='lat' dir='ltr'><strong>vorbehalten</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1054 3043 1710 3045">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1054 3043 1710 3045">
+     <span class='ocr_line' id='line_1_2' title="bbox 1054 3043 1710 3045; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1054 3043 1710 3045; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 725 3061 1657 3096">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 725 3061 1657 3096">
+     <span class='ocr_line' id='line_1_3' title="bbox 725 3061 1657 3096; baseline 0.001 -7"><span class='ocrx_word' id='word_1_5' title='bbox 725 3063 821 3090; x_wconf 88' lang='lat' dir='ltr'>Druck</span> <span class='ocrx_word' id='word_1_6' title='bbox 839 3072 897 3090; x_wconf 88' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_7' title='bbox 915 3064 949 3090; x_wconf 89' lang='grc' dir='ltr'>Α.</span> <span class='ocrx_word' id='word_1_8' title='bbox 963 3064 1007 3090; x_wconf 90' lang='lat' dir='ltr'>W.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1023 3061 1134 3096; x_wconf 80' lang='lat' dir='ltr'>Hayn’s</span> <span class='ocrx_word' id='word_1_10' title='bbox 1152 3064 1248 3090; x_wconf 81' lang='lat' dir='ltr'>Erben</span> <span class='ocrx_word' id='word_1_11' title='bbox 1268 3064 1347 3096; x_wconf 87' lang='lat' dir='ltr'>(Curt</span> <span class='ocrx_word' id='word_1_12' title='bbox 1366 3063 1494 3096; x_wconf 81' lang='lat' dir='ltr'>Gerber),</span> <span class='ocrx_word' id='word_1_13' title='bbox 1514 3063 1657 3090; x_wconf 83' lang='lat' dir='ltr'>Potsdam.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
